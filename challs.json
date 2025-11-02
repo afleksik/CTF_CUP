@@ -1,0 +1,236 @@
+{
+    "data": {
+        "Crypto": [
+            {
+                "category": "Crypto",
+                "description": "\u0412\u0435\u0440\u0438\u0442\u0435 \u043b\u0438 \u0432\u044b \u0432 \u0447\u0443\u0434\u0435\u0441\u0430?",
+                "files": [
+                    "/files/ccdf48ff37e5981a3770af767b683021/miracle?token=eyJ1c2VyX2lkIjo1MjksInRlYW1faWQiOm51bGwsImZpbGVfaWQiOjE5fQ.aQcd8g.qXo9KNo5yADe2f5M4VxclhmOv5s"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 18,
+                "name": "miracle",
+                "points": 1000,
+                "solves": 0
+            }
+        ],
+        "For Beginners": [
+            {
+                "category": "For Beginners",
+                "description": "\u041c\u044b \u0437\u0430\u0448\u0438\u0444\u0440\u043e\u0432\u0430\u043b\u0438 \u0444\u043b\u0430\u0433 \u0441\u043a\u0440\u0438\u043f\u0442\u043e\u043c, \u043d\u043e \u0432\u043e\u0442 \u0440\u0430\u0441\u0448\u0438\u0444\u0440\u043e\u0432\u0430\u0442\u044c \u043d\u0435 \u043f\u043e\u043b\u0443\u0447\u0430\u0435\u0442\u0441\u044f :(\r\n\r\n\u0421\u043c\u043e\u0436\u0435\u0448\u044c \u043f\u043e\u043c\u043e\u0447\u044c?\r\n\r\nAuthor: @revker",
+                "files": [
+                    "/files/3f0b883dd02309570a5834e8108a3474/task_data.txt?token=eyJ1c2VyX2lkIjo1MjksInRlYW1faWQiOm51bGwsImZpbGVfaWQiOjEwfQ.aQcd8g.CbLiCwd9kIUdqaqD3dnvRPmxDP4",
+                    "/files/e7ff551e179ca7e9960c16be94872651/task.py?token=eyJ1c2VyX2lkIjo1MjksInRlYW1faWQiOm51bGwsImZpbGVfaWQiOjExfQ.aQcd8g.-2xoRmxo81huMTo0PB9TTVc9b7Y"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 7,
+                "name": "babycrypto",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "For Beginners",
+                "description": "\u0423 \u0432\u0430\u0441 \u0435\u0441\u0442\u044c \u0442\u0440\u0430\u0444\u0438\u043a \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u043c \u043a\u0430\u043a\u0438\u043c-\u0442\u043e \u043e\u0431\u0440\u0430\u0437\u043e\u043c \u0431\u044b\u043b \u043f\u0435\u0440\u0435\u0434\u0430\u043d \u0444\u043b\u0430\u0433. \u041d\u0443\u0436\u043d\u043e \u0440\u0430\u0437\u043e\u0431\u0440\u0430\u0442\u044c\u0441\u044f \u043a\u0430\u043a\u0438\u043c.\r\n\r\n\u041c\u043e\u0433\u0443\u0442 \u043f\u0440\u0438\u0433\u043e\u0434\u0438\u0442\u0441\u044f \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b: Wireshark, binwalk, strings, unzip\r\n\r\nAuthor: @revker",
+                "files": [
+                    "/files/0670725993e72a7c5fd7379dded3929a/babyfor_public.pcapng?token=eyJ1c2VyX2lkIjo1MjksInRlYW1faWQiOm51bGwsImZpbGVfaWQiOjl9.aQcd9A.Xx9IuKoXBtlP6eausiJogkTVWD8"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 6,
+                "name": "babyfor",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "For Beginners",
+                "description": ">\u0422\u0440\u0438 \u0442\u043e\u0447\u043a\u0438 \u043d\u0430 \u043f\u043b\u043e\u0441\u043a\u043e\u0441\u0442\u0438 \u0441\u043a\u0440\u044b\u0432\u0430\u044e\u0442 \u043c\u0435\u0441\u0442\u043e\u043f\u043e\u043b\u043e\u0436\u0435\u043d\u0438\u0435 \u043f\u0440\u043e\u043f\u0430\u0432\u0448\u0435\u0439 \u0442\u043e\u0447\u043a\u0438. \u0414\u043b\u044f \u043a\u0430\u0436\u0434\u043e\u0439 \u0438\u0437 \u043d\u0438\u0445 \u0434\u0430\u043d\u044b \u0440\u0430\u0441\u0441\u0442\u043e\u044f\u043d\u0438\u044f \u0434\u043e \u044d\u0442\u043e\u0439 \u0442\u043e\u0447\u043a\u0438. \r\n>\r\n>\u0422\u0432\u043e\u044f \u0437\u0430\u0434\u0430\u0447\u0430 \u2014 \u0432\u044b\u0447\u0438\u0441\u043b\u0438\u0442\u044c \u0435\u0451 \u043a\u043e\u043e\u0440\u0434\u0438\u043d\u0430\u0442\u044b \u0441 \u0442\u043e\u0447\u043d\u043e\u0441\u0442\u044c\u044e \u0434\u043e 1e\u22129. \r\n>\r\n>\u0418\u0441\u043f\u043e\u043b\u044c\u0437\u0443\u0439 \u043f\u0440\u0438\u043d\u0446\u0438\u043f\u044b \u0442\u0440\u0438\u0430\u043d\u0433\u0443\u043b\u044f\u0446\u0438\u0438 \u0438 \u043d\u0430\u0439\u0434\u0438 \u0441\u043a\u0440\u044b\u0442\u0443\u044e \u0442\u043e\u0447\u043a\u0443, \u0447\u0442\u043e\u0431\u044b \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u0444\u043b\u0430\u0433!\r\n\r\n`nc ppc.game.ctfcup.online 1111`",
+                "files": [
+                    "/files/abe86ae7fbbf3a7eb26732bc0104c4b6/main.py?token=eyJ1c2VyX2lkIjo1MjksInRlYW1faWQiOm51bGwsImZpbGVfaWQiOjE2fQ.aQcd8g.AreGL7lZ6nV9leMAJP9P-CY_r8A"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 15,
+                "name": "babyppc",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "For Beginners",
+                "description": "\u0417\u0430\u0434\u0430\u043d\u0438\u044f \u043a\u0430\u0442\u0435\u0433\u043e\u0440\u0438\u0438 PWN \u043e\u0431\u044b\u0447\u043d\u043e \u043f\u043e\u0434\u0440\u0430\u0437\u0443\u043c\u0435\u0432\u0430\u044e\u0442 \u043f\u043e\u0434 \u0441\u043e\u0431\u043e\u0439 \u043f\u043e\u0438\u0441\u043a \u0443\u044f\u0437\u0432\u0438\u043c\u043e\u0441\u0442\u0435\u0439 \u0432 \u0438\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u043c\u044b\u0445 \u0444\u0430\u0439\u043b\u0430\u0445.\r\n\r\n\u0412 \u0434\u0430\u043d\u043d\u043e\u043c \u0441\u043b\u0443\u0447\u0430\u0435 \u043f\u0435\u0440\u0435\u0434 \u0432\u0430\u043c\u0438 \u0442\u0438\u043f\u0438\u0447\u043d\u044b\u0439 \u0442\u0430\u0441\u043a \u0432 \u043a\u043e\u0442\u043e\u0440\u043e\u043c \u0435\u0441\u0442\u044c \u0438\u0441\u043f\u043e\u043b\u043d\u044f\u0435\u043c\u044b\u0439 \u0444\u0430\u0439\u043b \u0432\u044b\u043f\u043e\u043b\u043d\u044f\u044e\u0449\u0438\u0439 \u043a\u0430\u043a\u0438\u0435-\u0442\u043e \u0434\u0435\u0439\u0441\u0442\u0432\u0438\u044f \u0441 \u043f\u0430\u043c\u044f\u0442\u044c\u044e. \u0412\u0430\u043c \u043d\u0443\u0436\u043d\u043e \u043d\u0430\u0440\u0443\u0448\u0438\u0442\u044c \u043b\u043e\u0433\u0438\u043a\u0443 \u0440\u0430\u0431\u043e\u0442\u044b \u0441 \u043f\u0430\u043c\u0430\u0442\u044c\u044e \u0438 \u043f\u043e\u043b\u0443\u0447\u0438\u0442\u044c \u0434\u043e\u0441\u0442\u0443\u043f \u043a \u0444\u0443\u043d\u043a\u0446\u0438\u0438 `win`\r\n\r\n\u0414\u043b\u044f \u044d\u0442\u043e\u0433\u043e \u0432\u0430\u043c \u043c\u043e\u0433\u0443\u0442 \u043f\u043e\u0442\u0440\u0435\u0431\u043e\u0432\u0430\u0442\u044c\u0441\u044f \u0438\u043d\u0441\u0442\u0440\u0443\u043c\u0435\u043d\u0442\u044b \u0434\u0438\u0437\u0430\u0441\u0441\u0435\u043c\u0431\u043b\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u044f \u0438 \u043e\u0442\u043b\u0430\u0434\u043a\u0438, \u0442\u0430\u043a\u0438\u0435 \u043a\u0430\u043a IDA PRO \u0438 gdb \u0438 pwntools \u0431\u0438\u0431\u043b\u0438\u043e\u0442\u0435\u043a\u0430 \u0434\u043b\u044f Python.\r\n\r\n`\u041f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 \u043a \u0442\u0430\u0441\u043a\u0443 \u0447\u0435\u0440\u0435\u0437 deployer`\r\n\r\nAuthor: @revker\r\n\r\n[\u0418\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u044f \u043f\u043e \u0434\u0435\u043f\u043b\u043e\u0435\u0440\u0443](https://platform.game.ctfcup.online/deployer)",
+                "files": [
+                    "/files/dc5985291be70bedb08b75c834cb32c5/babypwn_public.zip?token=eyJ1c2VyX2lkIjo1MjksInRlYW1faWQiOm51bGwsImZpbGVfaWQiOjE3fQ.aQcd8g.8GmrNqcPRGKYL35o0hUPc9bkV-4"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 16,
+                "name": "babypwn",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "For Beginners",
+                "description": "\u041d\u0435\u043a\u043e\u0442\u043e\u0440\u044b\u0439 \u0433\u0440\u0430\u0436\u0434\u0430\u043d\u0438\u043d-ctf'\u0435\u0440 \u043e\u0442\u043a\u0430\u0437\u044b\u0432\u0430\u0435\u0442\u0441\u044f \u043f\u043e\u0434\u0442\u0432\u0435\u0440\u0436\u0430\u0442\u044c \u0441\u0432\u043e\u044e \u043b\u0438\u0447\u043d\u043e\u0441\u0442\u044c \u0447\u0435\u0440\u0435\u0437 \u043c\u0435\u0441\u0441\u0435\u043d\u0434\u0436\u0435\u0440 MAX \u0438 \u0443\u0432\u0435\u0440\u044f\u0435\u0442, \u0447\u0442\u043e \u0435\u0433\u043e \u0438\u0434\u0435\u043d\u0442\u0438\u0444\u0438\u043a\u0430\u0446\u0438\u044e \u043c\u043e\u0436\u043d\u043e \u043f\u043e\u0434\u0432\u0435\u0440\u0434\u0438\u0442\u044c \u0447\u0435\u0440\u0435\u0437 \u043d\u0435\u043a\u0438\u0439 `AADHAAR 548550008000`.\r\n\r\n\u041f\u043e\u043c\u043e\u0433\u0438\u0442\u0435 \u043d\u0430\u0439\u0442\u0438 \u0438\u043c\u044f \u0438 \u0444\u0430\u043c\u0438\u043b\u0438\u044e \u0434\u0430\u043d\u043d\u043e\u0433\u043e \u0433\u0440\u0430\u0436\u0434\u0430\u043d\u0438\u043d\u0430, \u0434\u0430\u0431\u044b \u043f\u0440\u0438\u0432\u043b\u0435\u0447\u044c \u0435\u0433\u043e \u043a ctf-\u043e\u0442\u0432\u0435\u0442\u0441\u0442\u0432\u0435\u043d\u043d\u043e\u0441\u0442\u0438!\r\n\r\n\u0424\u043e\u0440\u043c\u0430\u0442 \u043e\u0442\u0432\u0435\u0442\u0430 - `ctfcup{Name_Shurname}`",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 11,
+                "name": "babyosint",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "For Beginners",
+                "description": "\u0421\u043c\u043e\u0436\u0435\u0442\u0435 \u043b\u0438 \u0432\u044b \u0432\u044b\u0439\u0433\u0440\u0430\u0442\u044c \u0432 \u044d\u0442\u0443 \u043d\u0435\u0447\u0435\u0441\u0442\u043d\u0443\u044e \u0438\u0433\u0440\u0443?\r\n\r\n`nc misc.game.ctfcup.online 12346`\r\n\r\nAuthor: @revker",
+                "files": [
+                    "/files/610149bcc1d6053882b7026cd1519ba6/main.c?token=eyJ1c2VyX2lkIjo1MjksInRlYW1faWQiOm51bGwsImZpbGVfaWQiOjEyfQ.aQcd8w.NGjoCW4cBvIxcbCDto6eMEiHhfU"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 8,
+                "name": "babymisc",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "For Beginners",
+                "description": ">CTFMarket - \u043f\u0435\u0440\u0432\u044b\u0439 \u043c\u0430\u0440\u043a\u0435\u0442\u043f\u043b\u0435\u0439\u0441 \u0434\u043b\u044f CTF \u043a\u043e\u043c\u0430\u043d\u0434! \u041f\u043e\u043a\u0443\u043f\u0430\u0439\u0442\u0435 \u0437\u0430\u0434\u0430\u0447\u0438, writeup'\u044b, \u043c\u0435\u0440\u0447 \u0438 \u043f\u043e\u0434\u043f\u0438\u0441\u043a\u0438.\r\n>\r\n>\u041f\u043b\u0430\u0442\u0444\u043e\u0440\u043c\u0430 \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0441\u044f \u0432 \u0431\u0435\u0442\u0430-\u0442\u0435\u0441\u0442\u0438\u0440\u043e\u0432\u0430\u043d\u0438\u0438, \u0432\u043e\u0437\u043c\u043e\u0436\u043d\u044b \u043d\u0435\u0431\u043e\u043b\u044c\u0448\u0438\u0435 \u0431\u0430\u0433\u0438.\r\n\r\n`\u041f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 \u043a \u0442\u0430\u0441\u043a\u0443 \u0447\u0435\u0440\u0435\u0437 deployer`\r\n\r\n[\u0418\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u044f \u043f\u043e \u0434\u0435\u043f\u043b\u043e\u0435\u0440\u0443](https://platform.game.ctfcup.online/deployer)",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 17,
+                "name": "babyweb",
+                "points": 1000,
+                "solves": 0
+            }
+        ],
+        "Forensics": [
+            {
+                "category": "Forensics",
+                "description": "\u041a\u043e\u0442\u0438\u043a, \u044f \u0442\u0443\u0442 \u043f\u043e\u043a\u0430 \u043f\u043e\u0438\u0437\u0443\u0447\u0430\u043b\u0430 \u0432\u0441\u044f\u043a\u043e\u0433\u043e\u2026\r\n\r\n\u0421\u043b\u0443\u0447\u0430\u0439\u043d\u043e \u0448\u0438\u0444\u0440\u043e\u0432\u0430\u043b\u044c\u0449\u0438\u043a \u0443 \u0441\u0435\u0431\u044f \u0437\u0430\u043f\u0443\u0441\u0442\u0438\u043b\u0430\u2026 \u043a\u043e\u043c\u043f\u0438\u043a \u043d\u0435 \u0440\u0430\u0431\u043e\u0442\u0430\u0435\u0442. \u041a\u0443\u043f\u0438\u0448\u044c \u043d\u043e\u0432\u044b\u0439? \ud83e\udd7a\ud83d\ude48\ud83e\ude77\r\n\r\n\u0417\u0430\u0448\u0438\u0444\u0440\u043e\u0432\u0430\u043b\u0430 \u0441\u0435\u0431\u0435 \u0441\u0443\u043c\u043e\u0447\u043a\u0443 \u0431\u0438\u0440\u043a\u0438\u043d, \u043e\u043d\u0430 \u0443 \u043c\u0435\u043d\u044f \u0431\u044b\u043b\u0430 \u0432 \u043f\u0430\u043f\u043a\u0435 `Documents` \u043f\u043e\u0434 \u0438\u043c\u0435\u043d\u0435\u043c `MyDream.png` \ud83e\ude77\ud83e\ude77\ud83e\ude77\r\n\r\n\u0422\u0430\u043c \u0436\u0435 \u0438 \u0448\u0438\u0444\u0440\u043e\u0432\u0430\u043b\u044c\u0449\u0438\u043a \u043b\u0435\u0436\u0438\u0442, \u0442\u043e\u043b\u044c\u043a\u043e \u043e\u043d \u043f\u043e\u0447\u0435\u043c\u0443-\u0442\u043e \u0441\u0430\u043c \u0441\u0435\u0431\u044f \u0437\u0430\u0448\u0438\u0444\u0440\u043e\u0432\u0430\u043b... \ud83d\ude48\r\n\r\n\u0415\u0449\u0451 \u0442\u0430\u043c \u043a\u0430\u043a\u0438\u0435-\u0442\u043e \u0442\u044e\u0431\u0438\u043a\u0438 \u0445\u043e\u0442\u044f\u0442 \u0432\u044b\u043a\u0443\u043f, \u0438\u043d\u0444\u043e\u0440\u043c\u0430\u0446\u0438\u044f \u043e \u043d\u0451\u043c \u0432 \u0442\u043e\u0439 \u0436\u0435 \u043f\u0430\u043f\u043a\u0435 \u0432 \u0444\u0430\u0439\u043b\u0435 `README.txt` \ud83d\ude13\ud83d\ude13\r\n\r\n\u0421\u043a\u0430\u0447\u0430\u0442\u044c \u0434\u0430\u043c\u043f:\r\n\r\n[\u042f.\u0414\u0418\u0421\u041a](https://disk.yandex.ru/d/R4sR5YX9_nbUDw)\r\n\r\n[Google Drive](https://drive.google.com/file/d/1gPPyFsP8JgaGN4muYzOaOmztBVW7pdlP/view?usp=sharing)\r\n\r\n[Mega](https://mega.nz/file/OdNmyRYA#ABG7d99e2H5qf-wGDnfAQON7v7lnBdw0SIA1yGICu2Q)\r\n\r\nAuthor: @revker\r\n",
+                "files": [],
+                "hints": [
+                    "-"
+                ],
+                "id": 3,
+                "name": "Bimbo Incident",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "Forensics",
+                "description": "\u041f\u043e\u0441\u043b\u0435 \u0442\u043e\u0433\u043e \u043a\u0430\u043a \u044f \u043f\u043e\u0441\u0442\u0430\u0432\u0438\u043b \u044d\u0442\u0443 \u043d\u043e\u0432\u0443\u044e \u043f\u0440\u043e\u0448\u0438\u0432\u043a\u0443 \u043c\u043e\u0439 \u0440\u043e\u0443\u0442\u0435\u0440 \u043c\u043e\u0436\u043d\u043e \u0445\u043e\u0440\u043e\u043d\u0438\u0442\u044c.\r\n\r\n\u041e\u043d \u043f\u0435\u0440\u0435\u0441\u0442\u0430\u043b \u043d\u043e\u0440\u043c\u0430\u043b\u044c\u043d\u043e \u0440\u0430\u0431\u043e\u0442\u0430\u0442\u044c \u0438 \u0442\u0435\u043f\u0435\u0440\u044c \u0432\u0441\u0451 \u0434\u043e\u043b\u0433\u043e \u0433\u0440\u0443\u0437\u0438\u0442\u0441\u044f\r\n\r\n\u0420\u0435\u0448\u0438\u043b \u043f\u043e\u0441\u043c\u043e\u0442\u0440\u0435\u0442\u044c \u043d\u0430 \u0442\u0440\u0430\u0444\u0438\u043a \u0438 \u0437\u0430\u043f\u0438\u0441\u0430\u043b \u0434\u0430\u043c\u043f, \u043c\u043e\u0436\u0435\u0442 \u043e\u043d \u043f\u043e\u043c\u043e\u0436\u0435\u0442 \u0440\u0430\u0437\u043e\u0431\u0440\u0430\u0442\u044c\u0441\u044f \u0432 \u0447\u0451\u043c \u0434\u0435\u043b\u043e?\r\n\r\n\u042f \u043e\u0442\u043f\u0440\u0430\u0432\u043b\u044f\u043b \u0447\u0435\u0440\u0435\u0437 \u0440\u043e\u0443\u0442\u0435\u0440 \u043a\u0430\u0440\u0442\u0438\u043d\u043a\u0443 \u0441 \u0444\u043b\u0430\u0433\u043e\u043c, \u043d\u043e \u0434\u043e \u0442\u043e\u0433\u043e \u043a\u0430\u043a \u043d\u0430\u0447\u0430\u043b \u0437\u0430\u043f\u0438\u0441\u044b\u0432\u0430\u0442\u044c \u0442\u0440\u0430\u0444\u0438\u043a.\r\n\r\n`\u041e\u0431\u0440\u0430\u0442\u0438\u0442\u0435 \u0432\u043d\u0438\u043c\u0430\u043d\u0438\u0435, \u0447\u0442\u043e \u0443 \u0432\u0430\u0441 \u0438\u043c\u0435\u043d\u043d\u043e \u0444\u0430\u0439\u043b \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u043f\u0440\u043e\u0448\u0438\u0432\u043a\u0438. \u0423 \u0432\u0430\u0441 \u043d\u0435\u0442 \u043a\u043e\u0434\u0430 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f, \u0430 \u044d\u0442\u043e \u0437\u043d\u0430\u0447\u0438\u0442 \u0447\u0442\u043e \u0432\u044b \u043d\u0435 \u043c\u043e\u0436\u0435\u0442\u0435 \u0433\u0430\u0440\u0430\u043d\u0442\u0438\u0440\u043e\u0432\u0430\u0442\u044c \u043d\u0430\u043b\u0438\u0447\u0438\u0435 \u0432\u0441\u0435\u0445 \u0444\u0430\u0439\u043b\u043e\u0432 \u0432\u043d\u0443\u0440\u0438 \u0424\u0421 \u0444\u0430\u0439\u043b\u0430 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f, \u043a\u043e\u0434 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u043c\u043e\u0436\u0435\u0442 \u0434\u043e\u0431\u0430\u0432\u043b\u044f\u0442\u044c \u043a\u0430\u043a\u0438\u0435-\u0442\u043e \u043a\u0443\u0441\u043a\u0438 \u0444\u0430\u0439\u043b\u0430 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f \u043d\u0430 \u0424\u0421, \u0432\u043d\u0438\u043c\u0430\u0442\u0435\u043b\u044c\u043d\u043e \u0441\u043c\u043e\u0442\u0440\u0438\u0442\u0435 \u043d\u0430 \u0432\u0441\u0435 \u0443\u0447\u0430\u0441\u0442\u043a\u0438 \u0444\u0430\u0439\u043b\u0430 \u043e\u0431\u043d\u043e\u0432\u043b\u0435\u043d\u0438\u044f`\r\n\r\nAuthor: @revker",
+                "files": [
+                    "/files/4c4d37e18f54c1b674536faf0b6fb8e0/FW_UPDATE_1.3.7.bin?token=eyJ1c2VyX2lkIjo1MjksInRlYW1faWQiOm51bGwsImZpbGVfaWQiOjR9.aQcd8w.kdfBkrQhcLQe9YGCLsEz13noTyk",
+                    "/files/86e83c9800c24c4b0f9526b443957d85/public_traffic.pcapng?token=eyJ1c2VyX2lkIjo1MjksInRlYW1faWQiOm51bGwsImZpbGVfaWQiOjV9.aQcd8w.an1Ef1PDGNbuiNJWGLqaaE5P7yw"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 4,
+                "name": "Funeral",
+                "points": 1000,
+                "solves": 0
+            }
+        ],
+        "Pwn": [
+            {
+                "category": "Pwn",
+                "description": "\u042f \u0432\u043e\u043e\u0431\u0449\u0435 \u043d\u0435 \u043f\u043e\u043d\u0438\u043c\u0430\u044e \u0447\u0442\u043e \u0442\u0443\u0442 \u043d\u0430\u043f\u0438\u0441\u0430\u043d\u043e!\r\n\r\n`\u041f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 \u043a \u0442\u0430\u0441\u043a\u0443 \u0447\u0435\u0440\u0435\u0437 deployer`\r\n\r\n`\u0412\u0435\u0440\u0441\u0438\u044f \u044f\u0434\u0440\u0430 \u043d\u0430 \u0441\u0435\u0440\u0432\u0435\u0440\u0435: Linux 6.8.0-85-generic #85-Ubuntu SMP PREEMPT_DYNAMIC Thu Sep 18 15:26:59 UTC 2025 x86_64 x86_64 x86_64 GNU/Linux`\r\n\r\nAuthor: @revker\r\n\r\n[\u0418\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u044f \u043f\u043e \u0434\u0435\u043f\u043b\u043e\u0435\u0440\u0443](https://platform.game.ctfcup.online/deployer)",
+                "files": [
+                    "/files/851ffd3a42d431d768a8286db34c55c8/bad_parser_public.zip?token=eyJ1c2VyX2lkIjo1MjksInRlYW1faWQiOm51bGwsImZpbGVfaWQiOjEzfQ.aQcd8w.lUN934yI_F6QXazcr63Tf3WJqm0"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 9,
+                "name": "bad parser",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "Pwn",
+                "description": "\u041d\u0438\u043a\u0442\u043e \u043d\u0435 \u0445\u043e\u0447\u0435\u0442 \u0438\u0433\u0440\u0430\u0442\u044c \u0441\u043e \u043c\u043d\u043e\u0439 \u0432 WoW. \u0412\u0441\u0435 \u0433\u043e\u0432\u043e\u0440\u044f\u0442, \u0447\u0442\u043e \u044d\u0442\u043e \u0434\u043b\u044f \u0441\u0442\u0430\u0440\u0438\u043a\u043e\u0432 \u0438 \u0441\u043a\u0443\u0447\u043d\u043e.\r\n\r\n\u0427\u0442\u043e \u0436, \u043c\u043e\u0436\u0435\u0442 \u0431\u044b\u0442\u044c \u0442\u043e\u0433\u0434\u0430 \u0432\u044b \u0431\u0443\u0434\u0435\u0442\u0435 \u043d\u0435 \u043f\u0440\u043e\u0442\u0438\u0432 \u0441\u044b\u0433\u0440\u0430\u0442\u044c \u0441\u043e \u043c\u043d\u043e\u0439 \u0432 \u0431\u043e\u043b\u0435\u0435 \u043f\u0440\u043e\u0441\u0442\u0443\u044e \u0438\u0433\u0440\u0443?\r\n\r\n`\u041f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 \u043a \u0442\u0430\u0441\u043a\u0443 \u0447\u0435\u0440\u0435\u0437 deployer`\r\n\r\nAuthor: @revker\r\n\r\n[\u0418\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u044f \u043f\u043e \u0434\u0435\u043f\u043b\u043e\u0435\u0440\u0443](https://platform.game.ctfcup.online/deployer)",
+                "files": [
+                    "/files/e483efc62834882fb035f79fb6511310/play_with_ker_public.zip?token=eyJ1c2VyX2lkIjo1MjksInRlYW1faWQiOm51bGwsImZpbGVfaWQiOjE0fQ.aQcd8w.POdq5UXplfrpNav4NLqRQKSHB2Q"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 10,
+                "name": "play with ker",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "Pwn",
+                "description": "\u0412 \u043c\u0440\u0430\u0447\u043d\u043e\u0439 \u043c\u0433\u043b\u0435 \u043d\u0435\u0434\u0430\u043b\u0435\u043a\u043e\u0433\u043e \u0431\u0443\u0434\u0443\u0449\u0435\u0433\u043e \u0435\u0441\u0442\u044c \u0442\u043e\u043b\u044c\u043a\u043e memory-safety.\r\n\r\n`\u041f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435 \u043a \u0442\u0430\u0441\u043a\u0443 \u0447\u0435\u0440\u0435\u0437 deployer`\r\n\r\n[\u0418\u043d\u0441\u0442\u0440\u0443\u043a\u0446\u0438\u044f \u043f\u043e \u0434\u0435\u043f\u043b\u043e\u0435\u0440\u0443](https://platform.game.ctfcup.online/deployer)",
+                "files": [
+                    "/files/cde0cc27de4ab115703dec4505fc1156/safelang.zip?token=eyJ1c2VyX2lkIjo1MjksInRlYW1faWQiOm51bGwsImZpbGVfaWQiOjIwfQ.aQcd8w.sSu6W0OzkKyoUOOddDlzkf8zMS8"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 19,
+                "name": "safelang",
+                "points": 1000,
+                "solves": 0
+            }
+        ],
+        "Reverse": [
+            {
+                "category": "Reverse",
+                "description": "\u0412 \u0437\u0430\u0431\u0440\u043e\u0448\u0435\u043d\u043d\u043e\u043c \u0434\u043e\u043c\u0435 \u0432\u044b \u043d\u0430\u0445\u043e\u0434\u0438\u0442\u0435 \u043f\u0440\u043e\u043a\u043b\u044f\u0442\u0443\u044e \u043a\u0443\u043a\u043b\u0443. \u0421\u043c\u043e\u0436\u0435\u0442\u0435 \u043b\u0438 \u0432\u044b \u0443\u0437\u043d\u0430\u0442\u044c \u0435\u0435 \u0442\u0430\u0439\u043d\u044b?",
+                "files": [
+                    "/files/ad1831c37580743bcd7ffbc5265450de/annabelle?token=eyJ1c2VyX2lkIjo1MjksInRlYW1faWQiOm51bGwsImZpbGVfaWQiOjE4fQ.aQcd-Q.GK5aPJKJiainT9mjfJFwERDtJWU"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 12,
+                "name": "annabelle",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "Reverse",
+                "description": "\u0412\u0441\u0451 \u043e\u0447\u0435\u043d\u044c \u043f\u0440\u043e\u0441\u0442\u043e \u0438 \u043f\u043e\u043d\u044f\u0442\u043d\u043e, \u043d\u0430\u0434\u043e \u043d\u0430\u0439\u0442\u0438 \u0444\u043b\u0430\u0433.\r\n\r\n\u0424\u043e\u0440\u043c\u0430\u0442 \u0444\u043b\u0430\u0433\u0430: `ctfcup{}`\r\n\r\nAuthor: @revker",
+                "files": [
+                    "/files/a54129353ed6befd463815cfc6e4aa6e/Wincrack.exe?token=eyJ1c2VyX2lkIjo1MjksInRlYW1faWQiOm51bGwsImZpbGVfaWQiOjF9.aQcd-Q.4U7Ts3sT9LNQfXueDaqAmiEdWjI"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 1,
+                "name": "Wincrack",
+                "points": 1000,
+                "solves": 0
+            },
+            {
+                "category": "Reverse",
+                "description": "nanomachines, son.",
+                "files": [
+                    "/files/7954185a811dcd5f76afd52416c913d9/nanomachines?token=eyJ1c2VyX2lkIjo1MjksInRlYW1faWQiOm51bGwsImZpbGVfaWQiOjE1fQ.aQcd9A.QhP-tqFZdlSvbN4CSKQM1uvLgd8"
+                ],
+                "hints": [
+                    "-"
+                ],
+                "id": 14,
+                "name": "nanomachines",
+                "points": 1000,
+                "solves": 0
+            }
+        ]
+    },
+    "title": "CTFCUP 2025",
+    "url": "https://platform.game.ctfcup.online"
+}
