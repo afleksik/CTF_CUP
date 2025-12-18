@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Veladora - Bar Simulator</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Auth Section -->
+    <div id="auth-section" class="section">
+        <div class="auth-container">
+            <h1>🍺 Veladora</h1>
+            <div class="auth-tabs">
+                <button class="tab-btn active" data-tab="login">Login</button>
+                <button class="tab-btn" data-tab="register">Register</button>
+            </div>
+            
+            <div id="login-form" class="auth-form active">
+                <input type="text" id="login-username" placeholder="Username" required>
+                <input type="password" id="login-password" placeholder="Password" required>
+                <button onclick="handleLogin()">Login</button>
+                <div id="auth-error" class="error-message"></div>
+            </div>
+            
+            <div id="register-form" class="auth-form">
+                <input type="text" id="register-username" placeholder="Username" required>
+                <input type="password" id="register-password" placeholder="Password" required>
+                <button onclick="handleRegister()">Register</button>
+                <div id="register-error" class="error-message"></div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Dashboard -->
+    <div id="dashboard" class="section hidden">
+        <header>
+            <h1>🍺 Veladora</h1>
+            <div class="user-info">
+                <span id="username-display"></span>
+                <span id="balance-display"></span>
+                <button onclick="handleLogout()" class="logout-btn">Logout</button>
+            </div>
+        </header>
+
+        <nav class="tabs">
+            <button class="tab-btn active" data-tab="profile">Profile</button>
+            <button class="tab-btn" data-tab="drinks">Order Drinks</button>
+            <button class="tab-btn" data-tab="orders">My Orders</button>
+            <button class="tab-btn" data-tab="payments">Payments</button>
+            <button class="tab-btn" data-tab="bills">Bills</button>
+            <button class="tab-btn" data-tab="bartender">Bartender</button>
+        </nav>
+
+        <!-- Profile Tab -->
+        <div id="profile-tab" class="tab-content active">
+            <h2>Profile</h2>
+            <div class="profile-card">
+                <p><strong>Username:</strong> <span id="profile-username"></span></p>
+                <p><strong>Balance:</strong> <span id="profile-balance"></span> roubles</p>
+                <p><strong>Balance (rubles):</strong> <span id="profile-balance-rubles"></span> ₽</p>
+                <button onclick="refreshProfile()" class="refresh-btn">Refresh</button>
+                <hr>
+                <div id="payment-links"></div>
+            </div>
+        </div>
+
+        <!-- Drinks Tab -->
+        <div id="drinks-tab" class="tab-content">
+            <h2>Order a Drink</h2>
+            <div class="order-form">
+                <input type="text" id="drink-name" placeholder="Drink name (e.g., beer, wine, cocktail)">
+                <button onclick="orderDrink()">Order Drink</button>
+                <div id="order-message" class="message"></div>
+            </div>
+            <div class="drink-info">
+                <p><em>Popular drinks: beer, wine, cocktail, whiskey, champagne</em></p>
+            </div>
+        </div>
+
+        <!-- Orders Tab -->
+        <div id="orders-tab" class="tab-content">
+            <h2>My Orders</h2>
+            <button onclick="loadOrders()" class="refresh-btn">Refresh Orders</button>
+            <div id="orders-list" class="orders-list"></div>
+        </div>
+
+        <!-- Payments Tab -->
+        <div id="payments-tab" class="tab-content">
+            <h2>Pay Bill & View Bills</h2>
+            
+            <!-- Active Bill Section -->
+            <div id="active-bill-section">
+                <h3>Your Active Bill</h3>
+                <div id="active-bill-payments"></div>
+                <div class="close-bill-form" style="margin-top: 20px;">
+                    <input type="text" id="pay-bill-comment" placeholder="Comment">
+                    <button onclick="payBill()" class="close-bill-btn">Pay Bill</button>
+                    <div id="pay-bill-message" class="message"></div>
+                    <p class="help-text"><em>Paying a bill will deduct money from your balance and generate a payment ID. The payment ID will be added to your profile.</em></p>
+                </div>
+            </div>
+            
+            <hr>
+            
+            <!-- View Bill by Payment ID Section -->
+            <div id="view-bill-section">
+                <h3>View Bill by Payment ID</h3>
+                <p class="help-text"><em>Enter a payment ID to view bill details.</em></p>
+                <div class="order-form">
+                    <input type="text" id="view-bill-payment-id" placeholder="Payment ID">
+                    <button onclick="viewBillByPaymentId()">View Bill</button>
+                    <div id="view-bill-message" class="message"></div>
+                </div>
+                <div id="viewed-bill" class="bills-list" style="margin-top: 20px;"></div>
+            </div>
+        </div>
+
+        <!-- Bills Tab -->
+        <div id="bills-tab" class="tab-content">
+            <h2>My Bills</h2>
+            
+            <!-- Active Bill Section -->
+            <div id="active-bill-section">
+                <h3>Your Active Bill</h3>
+                <button onclick="loadActiveBill('active-bill-bills')" class="refresh-btn">Refresh Active Bill</button>
+                <div id="active-bill-bills"></div>
+            </div>
+            
+            <hr>
+            
+            <!-- All Bills Section -->
+            <div id="all-bills-section">
+                <h3>All Your Bills</h3>
+                <button onclick="loadBills()" class="refresh-btn">Refresh Bills</button>
+                <div id="bills-list" class="bills-list"></div>
+            </div>
+        </div>
+
+        <!-- Bartender Tab -->
+        <div id="bartender-tab" class="tab-content">
+            <h2>Chat with Bartender</h2>
+            <div class="chat-container">
+                <div id="chat-messages" class="chat-messages"></div>
+                <div class="chat-input">
+                    <input type="text" id="chat-message" placeholder="Type your message..." onkeypress="if(event.key==='Enter') sendMessage()">
+                    <button onclick="sendMessage()">Send</button>
+                </div>
+            </div>
+            <hr>
+            <h3>Restore Conversation by Token</h3>
+            <div class="remember-form">
+                <input type="text" id="remember-username" placeholder="Username (optional, leave empty for your own)">
+                <input type="text" id="remember-token" placeholder="32-byte token" required maxlength="32">
+                <button onclick="rememberConversation()">Restore</button>
+                <div id="remember-message" class="message"></div>
+            </div>
+            <div id="remembered-conversations" class="conversations-list"></div>
+        </div>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>
+
